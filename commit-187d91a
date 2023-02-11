@@ -1,0 +1,14 @@
+From 187d91a7e80ee5f35a7e2ac73582fc43615753f2 Mon Sep 17 00:00:00 2001
+From: Test User <test@devcolibr.com>
+Date: Sat, 11 Feb 2023 19:47:09 +0400
+Subject: Revert "Wrong commit"
+
+This reverts commit 911c04a024aba088c8034c21db8e447b49bede09.
+
+diff --git a/index.html b/index.html
+index e838385..5b549bf 100644
+--- a/index.html
++++ b/index.html
+@@ -1 +1 @@
+-<h1>Hello Gitsfew</h1>
++<h1>Hello Git</h1>
